@@ -1,6 +1,6 @@
 #DEFINE DM MODULE
 module DM
-  VERSION = Gem::Version.new("1.7.0")
+  VERSION = Gem::Version.new("2.1.0")
 end
 
 #LOAD MODULE CLASS FILES
